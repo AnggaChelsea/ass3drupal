@@ -1,0 +1,6 @@
+name: Banner Hello World
+type: module 
+description: this is about banner hello world
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

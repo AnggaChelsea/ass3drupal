@@ -1,0 +1,6 @@
+banner_hello:
+  path: /hello/world
+  defaults:
+      _controller: Drupal\hello_world\Controller\HelloWorldController::hello
+      requirements:
+      _permission:  'access content'
